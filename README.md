@@ -1,2 +1,3 @@
 # process
-testing branching and merging
+testing creating a repo
+testing committing changes
