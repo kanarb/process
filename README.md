@@ -1,4 +1,4 @@
 # process
-testing pushing to master
+testing pushing to master :tada
 
-testing pull
+testing pull :sparkles :pizza :sparkles
