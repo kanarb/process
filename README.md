@@ -1,3 +1,2 @@
 # process
-testing creating a repo
-testing committing changes
+testing pushing to master
